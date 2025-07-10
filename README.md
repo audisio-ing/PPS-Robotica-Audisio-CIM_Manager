@@ -4,5 +4,5 @@ En la carpeta "Pruebas" se encuentra la última version del codigo de python, ju
 
 Actualmente hay 3 productos para producir, contenidos en 3 grafos:
 
-![Prod A ](Captura de pantalla 2025-07-10 143553.png)
-![Prod B y Prod C ](Captura de pantalla 2025-07-10 143557.png)
+<img width="576" height="304" alt="Image" src="https://github.com/user-attachments/assets/2181abef-ca31-46d1-bb8b-f546ef1b3df7" />
+<img width="622" height="661" alt="Image" src="https://github.com/user-attachments/assets/77f51900-b1c4-40db-8253-2965ecd72b8d" />
